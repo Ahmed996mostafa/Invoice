@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18D7B972-DAA7-48D8-BE38-366F38BB46BF}|task2\\task2.csproj|c:\\users\\ahmed mostafa\\desktop\\random\\task2\\task2\\controllers\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D7B972-DAA7-48D8-BE38-366F38BB46BF}|task2\\task2.csproj|solutionrelative:task2\\controllers\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D7B972-DAA7-48D8-BE38-366F38BB46BF}|task2\\task2.csproj|c:\\users\\ahmed mostafa\\desktop\\random\\task2\\task2\\controllers\\innovicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D7B972-DAA7-48D8-BE38-366F38BB46BF}|task2\\task2.csproj|solutionrelative:task2\\controllers\\innovicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D7B972-DAA7-48D8-BE38-366F38BB46BF}|task2\\task2.csproj|c:\\users\\ahmed mostafa\\desktop\\random\\task2\\task2\\dto\\unitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D7B972-DAA7-48D8-BE38-366F38BB46BF}|task2\\task2.csproj|solutionrelative:task2\\dto\\unitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D7B972-DAA7-48D8-BE38-366F38BB46BF}|task2\\task2.csproj|c:\\users\\ahmed mostafa\\desktop\\random\\task2\\task2\\dto\\innovicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D7B972-DAA7-48D8-BE38-366F38BB46BF}|task2\\task2.csproj|solutionrelative:task2\\dto\\innovicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D7B972-DAA7-48D8-BE38-366F38BB46BF}|task2\\task2.csproj|c:\\users\\ahmed mostafa\\desktop\\random\\task2\\task2\\models\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D7B972-DAA7-48D8-BE38-366F38BB46BF}|task2\\task2.csproj|solutionrelative:task2\\models\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D7B972-DAA7-48D8-BE38-366F38BB46BF}|task2\\task2.csproj|c:\\users\\ahmed mostafa\\desktop\\random\\task2\\task2\\models\\invoicedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D7B972-DAA7-48D8-BE38-366F38BB46BF}|task2\\task2.csproj|solutionrelative:task2\\models\\invoicedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D7B972-DAA7-48D8-BE38-366F38BB46BF}|task2\\task2.csproj|c:\\users\\ahmed mostafa\\desktop\\random\\task2\\task2\\models\\taskdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D7B972-DAA7-48D8-BE38-366F38BB46BF}|task2\\task2.csproj|solutionrelative:task2\\models\\taskdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D7B972-DAA7-48D8-BE38-366F38BB46BF}|task2\\task2.csproj|c:\\users\\ahmed mostafa\\desktop\\random\\task2\\task2\\migrations\\20240709163106_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D7B972-DAA7-48D8-BE38-366F38BB46BF}|task2\\task2.csproj|solutionrelative:task2\\migrations\\20240709163106_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D7B972-DAA7-48D8-BE38-366F38BB46BF}|task2\\task2.csproj|c:\\users\\ahmed mostafa\\desktop\\random\\task2\\task2\\task2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18D7B972-DAA7-48D8-BE38-366F38BB46BF}|task2\\task2.csproj|solutionrelative:task2\\task2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D7B972-DAA7-48D8-BE38-366F38BB46BF}|task2\\task2.csproj|c:\\users\\ahmed mostafa\\desktop\\random\\task2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D7B972-DAA7-48D8-BE38-366F38BB46BF}|task2\\task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D7B972-DAA7-48D8-BE38-366F38BB46BF}|task2\\task2.csproj|c:\\users\\ahmed mostafa\\desktop\\random\\task2\\task2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18D7B972-DAA7-48D8-BE38-366F38BB46BF}|task2\\task2.csproj|solutionrelative:task2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D7B972-DAA7-48D8-BE38-366F38BB46BF}|task2\\task2.csproj|c:\\users\\ahmed mostafa\\desktop\\random\\task2\\task2\\migrations\\20240709170811_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D7B972-DAA7-48D8-BE38-366F38BB46BF}|task2\\task2.csproj|solutionrelative:task2\\migrations\\20240709170811_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 254,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InnoviceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\task2\\DTO\\InnoviceDTO.cs",
+              "RelativeDocumentMoniker": "task2\\DTO\\InnoviceDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\task2\\DTO\\InnoviceDTO.cs",
+              "RelativeToolTip": "task2\\DTO\\InnoviceDTO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:16:03.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InnoviceController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\task2\\Controllers\\InnoviceController.cs",
+              "RelativeDocumentMoniker": "task2\\Controllers\\InnoviceController.cs",
+              "ToolTip": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\task2\\Controllers\\InnoviceController.cs",
+              "RelativeToolTip": "task2\\Controllers\\InnoviceController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAgwFgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:09:08.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\task2\\models\\Unit.cs",
+              "RelativeDocumentMoniker": "task2\\models\\Unit.cs",
+              "ToolTip": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\task2\\models\\Unit.cs",
+              "RelativeToolTip": "task2\\models\\Unit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:40:23.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\task2\\models\\InvoiceDetails.cs",
+              "RelativeDocumentMoniker": "task2\\models\\InvoiceDetails.cs",
+              "ToolTip": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\task2\\models\\InvoiceDetails.cs",
+              "RelativeToolTip": "task2\\models\\InvoiceDetails.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:36:32.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\task2\\DTO\\UnitDTO.cs",
+              "RelativeDocumentMoniker": "task2\\DTO\\UnitDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\task2\\DTO\\UnitDTO.cs",
+              "RelativeToolTip": "task2\\DTO\\UnitDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:16:24.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\task2\\Controllers\\UnitController.cs",
+              "RelativeDocumentMoniker": "task2\\Controllers\\UnitController.cs",
+              "ToolTip": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\task2\\Controllers\\UnitController.cs",
+              "RelativeToolTip": "task2\\Controllers\\UnitController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:09:35.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskDB.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\task2\\models\\TaskDB.cs",
+              "RelativeDocumentMoniker": "task2\\models\\TaskDB.cs",
+              "ToolTip": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\task2\\models\\TaskDB.cs",
+              "RelativeToolTip": "task2\\models\\TaskDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:57:50.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240709170811_init2.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\task2\\Migrations\\20240709170811_init2.cs",
+              "RelativeDocumentMoniker": "task2\\Migrations\\20240709170811_init2.cs",
+              "ToolTip": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\task2\\Migrations\\20240709170811_init2.cs",
+              "RelativeToolTip": "task2\\Migrations\\20240709170811_init2.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:08:11.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240709163106_init.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\task2\\Migrations\\20240709163106_init.cs",
+              "RelativeDocumentMoniker": "task2\\Migrations\\20240709163106_init.cs",
+              "ToolTip": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\task2\\Migrations\\20240709163106_init.cs",
+              "RelativeToolTip": "task2\\Migrations\\20240709163106_init.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:31:07.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "task2.csproj",
+              "DocumentMoniker": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\task2\\task2.csproj",
+              "RelativeDocumentMoniker": "task2\\task2.csproj",
+              "ToolTip": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\task2\\task2.csproj",
+              "RelativeToolTip": "task2\\task2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T15:59:50.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\task2\\Program.cs",
+              "RelativeDocumentMoniker": "task2\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\task2\\Program.cs",
+              "RelativeToolTip": "task2\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAB0AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:58:25.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\task2\\appsettings.json",
+              "RelativeDocumentMoniker": "task2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ahmed Mostafa\\Desktop\\random\\task2\\task2\\appsettings.json",
+              "RelativeToolTip": "task2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T15:44:29.869Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 356,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

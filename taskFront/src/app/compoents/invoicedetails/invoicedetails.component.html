@@ -1,0 +1,94 @@
+<div class="col-4 mx-auto border-black form">
+  <div class="text-center headerInv">Invoice Details Page</div>
+  <form class="px-4">
+
+    <div class="form-group">
+      <div class="row mb-2">
+        <div class="col-3">
+          <label for="productname">Product Name</label>
+        </div>
+        <div class="col-9">
+          <input type="text" class="form-control" id="productname" [(ngModel)]="ele.productName" name="productName">
+        </div>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <div class="row mb-2">
+        <div class="col-3">
+          <label for="price">Price</label>
+        </div>
+        <div class="col-9">
+          <input type="number" class="form-control" id="price" [(ngModel)]="ele.price" name="price">
+        </div>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <div class="row mb-2">
+        <div class="col-3">
+          <label for="quantity">Quantity</label>
+        </div>
+        <div class="col-9">
+          <input type="number" class="form-control" id="quantity" [(ngModel)]="ele.quantity" name="quantity">
+        </div>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <div class="row mb-2">
+        <div class="col-3">
+          <label for="total">Total</label>
+        </div>
+        <div class="col-9">
+          <input type="number" class="form-control" id="total" [value]="ele.price " readonly>
+        </div>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <div class="row mb-2">
+        <div class="col-3">
+          <label for="expiryDate">Expiry Date</label>
+        </div>
+        <div class="col-9">
+          <input type="date" class="form-control" id="expiryDate" [(ngModel)]="ele.expireDate" name="expireDate">
+        </div>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <div class="row mb-2">
+        <div class="col-3">
+          <label for="unitno">Unit No</label>
+        </div>
+        <div class="col-9">
+          <select class="form-control" id="unitno" [(ngModel)]="ele.unitno" name="unitno">
+            <option *ngFor="let unit of UnitNo" [value]="unit">  {{unit}}</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <div class="mx-auto container w-75 my-3">
+      <div class="row">
+        <div class="col-3">
+          <input type="button" value="New" (click)="GotoAdd()" class="mt-1 save btn d-inline-block">
+        </div>
+        <div class="col-3">
+          <input type="submit" value="Save" (click)="save()" class="mt-1 save btn d-inline-block">
+        </div>
+        <div class="col-3">
+          <input type="button" value="next" (click)="next()" class="mt-1 save btn d-inline-block">
+        </div>
+        <div class="col-3">
+          <input type="button" value="Delete" class="mt-1 btn btn-danger d-inline-block">
+        </div>
+      </div>
+      <div class="mx-auto text-center mt-2">
+        <p>1 <span>&lt;&lt;</span><span>{{this.currentIndex+1}}</span><span>&gt;&gt;</span>{{this.Inovs.length}}</p>
+      </div>
+    </div>
+
+  </form>
+</div>
